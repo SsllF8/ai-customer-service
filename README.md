@@ -162,7 +162,7 @@ JSON 格式：
 | 后台管理 | 无 | **完整的 CRUD 管理** |
 | 复杂度 | 低-中 | **高** |
 
-### 💡 面试要点 / Interview Talking Points
+### 💡 项目亮点 / Project Highlights
 
 **1. 为什么这个项目用多页面架构？**
 - 客服系统天然有多个功能模块：聊天、看板、记录、管理
@@ -321,7 +321,7 @@ A: 7-day no-questions-asked refund...
 ]
 ```
 
-### Interview Talking Points
+### Project Highlights
 
 **1. Why multi-page architecture?**
 - Customer service has natural functional modules: chat, dashboard, history, admin
